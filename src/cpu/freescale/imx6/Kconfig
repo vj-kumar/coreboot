@@ -1,0 +1,3 @@
+config CPU_FSL_IMX6
+	bool
+	default n
